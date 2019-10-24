@@ -71,7 +71,7 @@ You're welcome to use the data, but its structure is subject to change without n
 
 If you find a problem, please [file a bug](https://github.com/mdn/browser-compat-data/issues/new).
 
-## Contributing
+## Contributing1
 
 We're very happy to accept contributions to this data. See [Contributing to browser-compat-data](/docs/contributing.md) for more information.
 
